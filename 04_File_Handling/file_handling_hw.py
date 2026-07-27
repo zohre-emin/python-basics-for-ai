@@ -1,4 +1,4 @@
-with open("notla.txt", "w", encoding = "utf-8") as file:
+with open("notlar.txt", "w", encoding = "utf-8") as file:
     file.write("90\n")
     file.write("98\n")
     file.write("87\n")
